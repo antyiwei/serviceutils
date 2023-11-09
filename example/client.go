@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"git.witalk.cn/base/wsclientsdk"
+	"github.com/antyiwei/wsclientsdk"
 	"github.com/luaxlou/goutils/tools/logutils"
 )
 
