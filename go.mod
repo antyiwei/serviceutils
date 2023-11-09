@@ -3,7 +3,7 @@ module github.com/antyiwei/serviceutils
 go 1.13
 
 require (
-	github.com/antyiwei/wsclientsdk v0.0.0-20231109115002-826b0c2cce9b // indirect
+	github.com/antyiwei/wsclientsdk v0.0.0-20231109115002-826b0c2cce9b
 	github.com/bytedance/sonic v1.10.2 // indirect
 	github.com/chenzhuoyu/iasm v0.9.1 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.3 // indirect
@@ -11,7 +11,6 @@ require (
 	github.com/go-playground/validator/v10 v10.16.0 // indirect
 	github.com/google/uuid v1.4.0 // indirect
 	github.com/gorilla/websocket v1.5.1
-	github.com/jinzhu/gorm v1.9.15 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.6 // indirect
 	github.com/luaxlou/goutils v0.0.0-20220928045548-b5ce4313b938
 	github.com/mattn/go-isatty v0.0.20 // indirect
