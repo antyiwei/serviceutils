@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"sync"
 
+	"github.com/antyiwei/goutils/debugutils"
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"
-	"github.com/luaxlou/goutils/tools/debugutils"
 )
 
 type WsEngine struct {
